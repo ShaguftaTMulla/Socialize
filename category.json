@@ -1,0 +1,38 @@
+{
+    "Category":[
+        {
+            "name":"singing",
+            "value":"Singing"
+        },
+        {
+            "name":"dancing",
+            "value":"Dancing"
+        },
+        {
+            "name":"painting",
+            "value":"Painting"
+        },
+        {
+            "name":"photography",
+            "value":"Photography"
+        },
+        {
+            "name":"reading",
+            "value":"Reading"
+        },
+        {
+            "name":"cooking",
+            "value":"Cooking"
+        }
+],
+"hobbies":
+[
+    {
+        "singing":[
+            {
+
+            }
+        ]
+    }    
+]
+}
